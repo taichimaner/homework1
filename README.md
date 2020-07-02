@@ -80,7 +80,10 @@ H2
         八個空白
         或是兩個TAB
 
+- [x] This is a complete item
+- [ ] This is an incomplete item
 
+`程式碼包起來`
 
 This is [an example](http://example.com/ "Title") inline link.
 see [about(/about/)] 使用相對路徑
